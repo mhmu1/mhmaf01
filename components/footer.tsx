@@ -34,7 +34,7 @@ export function Footer() {
             <h3 className="text-lg font-bold mb-4">تابعني</h3>
             <div className="flex space-x-4 rtl:space-x-reverse">
               <a
-                href="mailto:zoher.zoher@inbox.ru"
+                href="mailto:mhmaf01@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"

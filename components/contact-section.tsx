@@ -32,8 +32,8 @@ export function ContactSection() {
                 <div>
                   <p className="font-medium">فيسبوك</p>
                   <p className="text-sm text-gray-500">
-                    <a href="mailto:zoher.zoher@inbox.ru" className="hover:underline">
-                      zoher.zoher@inbox.ru
+                    <a href="mailto:mhmaf01@gmail.com" className="hover:underline">
+                      mhmaf01@gmail.com
                     </a>
                   </p>
                 </div>
