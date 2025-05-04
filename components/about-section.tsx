@@ -10,7 +10,7 @@ export function AboutSection() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">من أنا</h2>
             <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              تعرف على المهندس أبو ريماس
+              تعرف على المهندس محمد عواد
             </p>
           </div>
         </div>
@@ -19,7 +19,7 @@ export function AboutSection() {
             <div className="aspect-square relative">
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1745321824457.jpg-MIsjkT0HkWE0yv4Cis6gMOzTw0GwgM.jpeg"
-                alt="صورة المهندس أبو ريماس"
+                alt="صورة المهندس محمد عواد"
                 fill
                 className="object-cover"
                 unoptimized
@@ -35,8 +35,8 @@ export function AboutSection() {
           <Card className="lg:col-span-2">
             <CardContent className="p-6">
               <p className="mb-4 text-lg">
-                أنا محمد عواد، الملقب بـ "أبو ريماس"، مهندس مدني من قرية المسحك - مدينة بيجي. أعمل في تنفيذ المشاريع
-                الميدانية، وأهتم بتوثيق العمل الهندسي ونشره للجمهور.
+                أنا محمد عواد، مهندس مدني من قرية المسحك - مدينة بيجي. أعمل في تنفيذ المشاريع الميدانية، وأهتم بتوثيق
+                العمل الهندسي ونشره للجمهور.
               </p>
               <p className="mb-6 text-lg">أسعى لنقل صورة واقعية عن مهنة الهندسة في العراق.</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

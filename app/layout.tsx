@@ -9,8 +9,8 @@ const tajawal = Tajawal({
 })
 
 export const metadata: Metadata = {
-  title: "المهندس أبو ريماس | Muhammad Awad",
-  description: "المهندس أبو ريماس | محمد عواد - من المسحك | بيجي",
+  title: "المهندس محمد عواد | Muhammad Awad",
+  description: "المهندس محمد عواد - من المسحك | بيجي",
     generator: 'v0.dev'
 }
 

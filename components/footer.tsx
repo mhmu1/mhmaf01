@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-bold mb-4">المهندس أبو ريماس</h3>
+            <h3 className="text-lg font-bold mb-4">المهندس محمد عواد</h3>
             <p className="text-gray-300">مهندس مدني ومُنشئ محتوى من قرية المسحك - بيجي</p>
           </div>
           <div>
@@ -65,7 +65,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-gray-700 pt-6 text-center">
-          <p>&copy; 2025 المهندس أبو ريماس - جميع الحقوق محفوظة</p>
+          <p>&copy; 2025 المهندس محمد عواد - جميع الحقوق محفوظة</p>
         </div>
       </div>
     </footer>

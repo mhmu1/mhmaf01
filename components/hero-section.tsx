@@ -6,7 +6,7 @@ export function HeroSection() {
       <div className="container px-4 md:px-6 text-center">
         <div className="space-y-4">
           <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-            المهندس أبو ريماس | Muhammad Awad
+            المهندس محمد عواد | Muhammad Awad
           </h1>
           <p className="mx-auto max-w-[700px] text-lg text-gray-300">من قرية المسحك - بيجي | مهندس مدني ومُنشئ محتوى</p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 mt-8">
