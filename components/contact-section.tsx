@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Facebook, Instagram, Mail, MapPin } from "lucide-react"
+import { Facebook, Instagram, Mail, MapPin, Phone } from "lucide-react"
 
 export function ContactSection() {
   return (
@@ -56,6 +56,19 @@ export function ContactSection() {
                   <p className="text-sm text-gray-500">
                     <a href="mailto:mhmaf01@gmail.com" className="hover:underline">
                       mhmaf01@gmail.com
+                    </a>
+                  </p>
+                </div>
+              </div>
+              <div className="flex items-center gap-3">
+                <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
+                  <Phone className="h-5 w-5 text-primary" />
+                </div>
+                <div>
+                  <p className="font-medium">رقم الهاتف</p>
+                  <p className="text-sm text-gray-500">
+                    <a href="tel:+9647700000000" className="hover:underline">
+                      +964 770 000 0000
                     </a>
                   </p>
                 </div>
